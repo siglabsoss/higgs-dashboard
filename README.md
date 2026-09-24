@@ -13,7 +13,7 @@ curl https://install.meteor.com/ | sh
 # Project install
 Get the repo like normal...
 ```bash
-git clone git@github.com:siglabs/higgs-dashboard.git
+git clone git@github.com:siglabsoss/higgs-dashboard.git
 cd higgs-dashboard
 nvm i 10
 meteor npm install @babel/runtime@7.0.0-beta.55
